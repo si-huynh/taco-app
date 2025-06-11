@@ -33,6 +33,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "fbbaa1a7-d9f5-4e56-a384-b70c69cf397f"
+      }
+    },
+    "owner": "si-huynh-coderpush"
   }
 }
